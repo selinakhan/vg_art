@@ -7,8 +7,8 @@ This research adopts multiple code bases and should be structured as follows:
 vg_art
 │   README.md
 │   inference.py    
-│	metrics.py
-│	requirements.txt
+│   metrics.py
+│   requirements.txt
 │
 └─── util
    │   misc.py
