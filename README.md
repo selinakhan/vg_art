@@ -51,7 +51,7 @@ Model checkpoints for each configuration which achieved the best performance in 
 
 
 ## Training
-For instructions to train CIGAr, please refer to the adapted Open-GroundingDino repo as found [here](https://github.com/selinakhan/Open-GroundingDino/).
+For instructions to train CIGAr, please refer to the CIGAr model repo as found [here](https://github.com/selinakhan/CIGAr/).
 
 ## Evaluation
 For model inference, run the following command on any dataset in ODVG format.
