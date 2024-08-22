@@ -31,7 +31,7 @@ All datasets used to train CIGAr should be converted into ODVG format as describ
 
 ## Code Preparation
 
-For this research, the code from [Open-GroundingDino](https://github.com/longzw1997/Open-GroundingDino) has been adapted to include artwork descriptions during training and to evaluate on grounding data. The adapted code used can be found [here](https://github.com/selinakhan/Open-GroundingDino), and should be cloned into this repository. Additionally, the original [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) repository should be cloned. Future efforts might make this step redundant, but as the Open-GroundingDino code currently depends on it, this is required for now.  
+For this research, the GroundingDINO training code from [Open-GroundingDino](https://github.com/longzw1997/Open-GroundingDino) has been adapted to include artwork descriptions during training and to allow evaluation on grounding data. The adapted code used can be found [here](https://github.com/selinakhan/Open-GroundingDino), and should be cloned into this repository. Additionally, the original [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) repository should be cloned.
 
 In a single environment, follow the setup instructions from Open-GroundingDino to build the code, and do the same for the original GroundingDINO repository. Additionally install the required packages from this repository found in `requirements.txt`. Our experiments are conducted using `torch v. 2.0.1` with `cuda 11.7`, but other versions may also work.
 
@@ -78,4 +78,4 @@ To perform evaluation on datasets in ODVG format, run
 
 ## Data Refinement
 
-[TODO]
+Intructions will follow soon.
