@@ -43,11 +43,11 @@ Model checkpoints for each configuration which achieved the best performance in 
 |--|--|--|
 |Ukiyo-eVG  | [CIGAr](https://drive.google.com/drive/folders/1ulg5BVqj1vVhMYXaqwndOAA78WlJGPVA?usp=sharing) | 26.8|
 | DEArt Captions | [CIGAr](https://drive.google.com/drive/folders/1hkpQzDKNrslKLJ_FHm63FnY-9wEqRaZj?usp=sharing) | 30.3|
-| DEArt | [Fine-tuned GroundingDINO](https://drive.google.com/drive/folders/1cLs_Tmq7tk6biZMs8nufUQSMNz6A6Xa6?usp=sharing) * | 25.3|
+| DEArt | [Fine-tuned GroundingDINO](https://drive.google.com/drive/folders/1cLs_Tmq7tk6biZMs8nufUQSMNz6A6Xa6?usp=sharing)  | 25.3|
 | IconArt | [Fine-tuned GroundingDINO](https://drive.google.com/drive/folders/1qRiGG8PxuCvxXBO-zKYvLnDL0OA59bYc?usp=sharing) | 35.2 |
 | ArtDL | [Fine-tuned GroundingDINO](https://drive.google.com/drive/folders/1qRiGG8PxuCvxXBO-zKYvLnDL0OA59bYc?usp=sharing) | 51.1|
 
-\*Not state-of-the-art performance.
+
 
 
 ## Training
